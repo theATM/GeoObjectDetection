@@ -7,3 +7,6 @@
 [submodule "Detectron2"]
 	path = Detectron2
 	url = https://github.com/theATM/Detectron2.git
+[submodule "NviSSD"]
+	path = NviSSD
+	url = https://github.com/theATM/NviSSD.git
