@@ -13,3 +13,6 @@
 [submodule "Detr"]
 	path = Detr
 	url = https://github.com/theATM/detr.git
+[submodule "MMDetection"]
+	path = MMDetection
+	url = https://github.com/theATM/mmdetection.git
