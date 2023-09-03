@@ -4,3 +4,6 @@
 [submodule "GeoNotebook"]
 	path = GeoNotebook
 	url = https://github.com/theATM/geo-detection-notebook.git
+[submodule "Detectron2"]
+	path = Detectron2
+	url = https://github.com/theATM/Detectron2.git
