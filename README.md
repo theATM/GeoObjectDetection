@@ -1,5 +1,5 @@
 # AirDetection
-The Repository for the Master Thesis in the Rem0te Sensing Object Detection
+The Repository for the Master Thesis in the Remote Sensing Object Detection
 
 
 ## Project Structure Chart
