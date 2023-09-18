@@ -1,6 +1,7 @@
 # AirDetection
 The Repository for the Master Thesis in the Remote Sensing Object Detection
 
+Multiple different architectures (shown in the structure chart) are used to detect images on the <a href="https://github.com/Dr-Zhuang/geospatial-object-detection">RSD-GOD</a> dataset.
 
 ## Project Structure Chart
 
