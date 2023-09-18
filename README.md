@@ -9,7 +9,7 @@ The Repository for the Master Thesis in the Remote Sensing Object Detection
 
 ## Gdańsk Bay Detections
 
-Object Detected using a large YOLOv8 model. Images taken from the Google Maps.
+Object Detected using a large YOLOv8 model. Images taken from Google Maps.
 
 
 | Gdańsk Lech Wałęsa Airport | „Burza” Polish Museum Ship   | 
