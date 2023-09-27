@@ -1,0 +1,13 @@
+path: RSD-YOLO-DOTANA-T
+train: train/images
+val: valid/images
+test: test/images
+
+nc: 5
+names: ['airport', 'helicopter', 'oiltank', 'plane', 'warship']
+
+roboflow:
+  workspace: AirDetection
+  project: yolov8
+  version: 1
+  license: CC BY 4.0

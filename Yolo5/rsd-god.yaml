@@ -1,0 +1,11 @@
+# Dataset paths relative to the yolov5 folder
+path: RSD-GOD
+train: train/images
+val:   valid/images
+test:  test/images
+
+# Number of classes
+nc: 5
+
+# Class names 0 - helicopter, 1 - airport, 2 - warship, 3 - plane, 4 - oiltank, 
+names: ['helicopter', 'airport','warship', 'plane','oiltank']
