@@ -1,7 +1,16 @@
+![BannerAirDetection](https://github.com/theATM/AirDetection/assets/48883111/17015a60-20a0-45c6-abe4-7c7b17a89ee9)
+
 # AirDetection
-The Repository for the Master Thesis in the Remote Sensing Object Detection
+
+The Repository for the Master Thesis in the Remote Sensing Object Detection. The AirDetection Project explores the fascinating field of object detection in satellite imagery.
+
+- The project's main objective is to compare the effectiveness of modern neural network architectures on <a href="https://github.com/Dr-Zhuang/geospatial-object-detection">RSD-GOD</a>  remote sensing dataset
+- Propose improvements that could strengthen the models' ability to correctly detect various objects of interest
+- Analyse the challanges with the top-down object detection
+
 
 Multiple different architectures (shown in the structure chart) are used to detect images on the <a href="https://github.com/Dr-Zhuang/geospatial-object-detection">RSD-GOD</a> dataset.
+
 
 ## Project Structure Chart
 
