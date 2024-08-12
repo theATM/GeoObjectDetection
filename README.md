@@ -63,3 +63,11 @@ Object Detected using a large YOLOv8 model. Images taken from Google Maps.
  Average Recall     (AR) @[ IoU=0.50:0.95 | area=medium | maxDets=100 ] = 0.587 <br/>
  Average Recall     (AR) @[ IoU=0.50:0.95 | area= large | maxDets=100 ] = 0.728 <br/>
 </pre>
+
+### Model Zoo
+
+
+| YOLOv8  | Yolov5 | Yolov3 | SSD | DETR | Faster R-CNN | RTMDet
+| ------------- | ---- | ---- |  ---- | ---- | ---- | ---- |
+| [Y28](https://drive.google.com/file/d/1ai4D---5uvQeoz2RzkisL5hlNCXDshSg/view?usp=sharing) [Y25](https://drive.google.com/file/d/1I4L0x9Hoo-8R9oGka45giOWHbq33AcEG/view?usp=sharing) <br> [Y9](https://drive.google.com/file/d/1bk0tnVXpOP7wc_9Pp2L16MuhuW1vxDG2/view?usp=sharing) [Y7](https://drive.google.com/file/d/1g9L0rVkM9B2IeH6rYLcdfWcCwUKSuw_5/view?usp=sharing) <br> [L6](https://drive.google.com/file/d/1PMvREHjc_NFcAvgTdImDsp0ooyG631kQ/view?usp=sharing) [L8](https://drive.google.com/file/d/1eKePU7NxfheCx19Yjb_ijPqgk5n-EY7G/view?usp=sharing)  | [F29](https://drive.google.com/file/d/1FSccHMgBY9TrLokY8GxcW_k-VhXIzbIr/view?usp=sharing) | [O2](https://drive.google.com/file/d/1XbCKVi2A16a5E_rcWITa9IeLb5F1SGnt/view?usp=sharing) | [S23](https://drive.google.com/file/d/1sAsoLrs2eh66HGHyVldOu1I2l1yBQCyV/view?usp=sharing) <br> [S21](https://drive.google.com/file/d/1TVtVp_qJ0GdEV0s-6AZsdF_A8kXXnT4U/view?usp=sharing) | [D5](https://drive.google.com/file/d/1G84ybh_JvDLgcF-1OWM2ge63e3fCoESb/view?usp=sharing) <br> [D2](https://drive.google.com/file/d/1nt5jr17RP7hYRSsYByOoxuIyvWosARdf/view?usp=sharing) | [R4](https://drive.google.com/file/d/10CBfGHrepi_bTf17anL6ZzJqo2L60I3P/view?usp=sharing) | [T3](https://drive.google.com/file/d/1HYP-lMsq8xlZ6qG7_MmAQi5Gc33HMU8x/view?usp=sharing) |
+
