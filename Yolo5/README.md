@@ -1,5 +1,7 @@
 ### Yolov5 Training
 
+It is a part of the AirDetection study focused on training and testing YOLOv5 model. The Main repo can be found [under this link](https://github.com/theATM/AirDetection).
+
 To run experiments on Yolov5 simply copy the RSD-GOD and Dotana .yaml configuration files to the Yolov8 Repo.
 
 Then run train.py with example parameters: 
