@@ -14,6 +14,11 @@ To validate run val.py --data rsd-god.yaml --weights mymodels/best.pt --save-jso
 
 To predict on images run detect.py --weights mymodels/best.pt --source dir_with_images/
 
+### Results
+
+![Yolo5Y](https://github.com/user-attachments/assets/d1a72b42-f7aa-4968-b435-8a2214e2d8f2)
+
+
 Download Pretrained Model F29 [Here](https://drive.google.com/file/d/1FSccHMgBY9TrLokY8GxcW_k-VhXIzbIr/view?usp=sharing)
 
 Original YOLOv5 README [Here](README_ORIGINAL.md)
