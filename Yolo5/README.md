@@ -16,4 +16,4 @@ To predict on images run detect.py --weights mymodels/best.pt --source dir_with_
 
 Download Pretrained Model F29 [Here](https://drive.google.com/file/d/1FSccHMgBY9TrLokY8GxcW_k-VhXIzbIr/view?usp=sharing)
 
-* Original YOLOv5 README [Here](README_ORIGINAL.md)
+Original YOLOv5 README [Here](README_ORIGINAL.md)
