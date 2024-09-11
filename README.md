@@ -1,4 +1,5 @@
-![BannerAirDetection](https://github.com/theATM/AirDetection/assets/48883111/17015a60-20a0-45c6-abe4-7c7b17a89ee9)
+![AirDetectionBanner2](https://github.com/user-attachments/assets/94e4ac07-334e-4f95-a60b-399c1547e7aa)
+
 
 # Remote Sensing Object Detection Project
 
