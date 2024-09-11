@@ -2,7 +2,7 @@
 	path = Yolo8
 	url = https://github.com/theATM/yolov8.git
 [submodule "GeoNotebook"]
-	path = GeoNotebook
+	path = GeoPreviousWork
 	url = https://github.com/theATM/geo-detection-notebook.git
 [submodule "Detectron2"]
 	path = Detectron2
