@@ -2,7 +2,7 @@
 
 # Remote Sensing Object Detection Project
 
-The Repository for the Master's Thesis in the Remote Sensing Object Detection. The AirDetection Project explores the fascinating field of object detection in satellite imagery.
+The Repository for the Master's Thesis in the Remote Sensing Object Detection. This Project explores the fascinating field of object detection in satellite imagery.
 
 - The project's main objective is to compare the effectiveness of modern neural network architectures on <a href="https://github.com/Dr-Zhuang/geospatial-object-detection">RSD-GOD</a>  remote sensing dataset
 - Propose improvements that could strengthen the models' ability to correctly detect various objects of interest
