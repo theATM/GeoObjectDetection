@@ -1,6 +1,6 @@
 ![BannerAirDetection](https://github.com/theATM/AirDetection/assets/48883111/17015a60-20a0-45c6-abe4-7c7b17a89ee9)
 
-# AirDetection
+# Remote Sensing Object Detection Project
 
 The Repository for the Master's Thesis in the Remote Sensing Object Detection. The AirDetection Project explores the fascinating field of object detection in satellite imagery.
 
