@@ -17,7 +17,7 @@ Multiple different architectures (shown in the structure chart) are used to dete
 
 ## Project Structure Chart
 
-![AirDetectionSchema3](https://github.com/user-attachments/assets/f2d02448-fc12-4505-8d7c-281f0832eaca)
+![AirDetectionSchema4](https://github.com/user-attachments/assets/cea94386-eced-4791-a667-a6393423047a)
 
 
 ## Gdańsk Bay Detections
