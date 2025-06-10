@@ -10,6 +10,8 @@ The Repository for the Master's Thesis in the Remote Sensing Object Detection. T
 - Analyse the challanges with the top-down object detection
 - Present [RSD-GOD](https://github.com/Dr-Zhuang/geospatial-object-detection) + [DOTAv2](https://captain-whu.github.io/DOTA/dataset.html) custon hybrid dataset called [DOTANA](https://drive.google.com/file/d/1s0u--CU-VVmv0t_O9_3TNNA2VcLahLPu/view?usp=sharing)
 - Dataset Annotations RSD-GOD and DOTANA (in COCO, YOLO and VOC formats) are available for download [here](https://drive.google.com/file/d/1aypqgUDdSnJbElffF6P864MAnz0v7BLb/view?usp=sharing)
+- Dataset Images available to download from the original sources: [RSD-GOD](https://github.com/Dr-Zhuang/geospatial-object-detection) + [DOTAv2](https://captain-whu.github.io/DOTA/dataset.html)
+- Use ChangeDataset tool to preprocess original images
 
 
 Multiple different architectures (shown in the structure chart) are used to detect images on the <a href="https://github.com/Dr-Zhuang/geospatial-object-detection">RSD-GOD</a> dataset. 
