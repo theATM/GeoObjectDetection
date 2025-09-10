@@ -17,6 +17,11 @@ The Repository for the Master's Thesis in the Remote Sensing Object Detection. T
 Multiple different architectures (shown in the structure chart) are used to detect images on the <a href="https://github.com/Dr-Zhuang/geospatial-object-detection">RSD-GOD</a> dataset. 
 
 
+#### If you use the DOTANA dataset, please cite the following paper:
+
+Madajczak, A., & Ciecholewski, M. (2025). Object detection with different categories using YOLOv8 for optical remote sensing images. IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, vol 18, pp. 20129-20148.
+<br>DOI: 10.1109/JSTARS.2025.3594426
+
 ## Project Structure Chart
 
 ![AirDetectionSchema4](https://github.com/user-attachments/assets/cea94386-eced-4791-a667-a6393423047a)
